@@ -5,9 +5,6 @@ Arduino Uno project: a 2-axis analog joystick drives **four LEDs in a diamond
 point diagonally and the two neighboring LEDs light; center the stick and all LEDs
 go dark.
 
-> This is the first, deliberately-simple hardware project in a larger
-> local-model-plus-Arduino effort. No PC or LLM is involved here — it's pure Arduino.
-
 ## Behavior
 
 - **Up / Down / Left / Right** → the one LED in that direction lights.
