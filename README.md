@@ -76,5 +76,4 @@ cardinal-epic-device/
 
 ## Status
 
-Scaffolded. Firmware logic is implemented in the next step, then the repo is pushed
-to GitHub (public).
+We are 100% done with this project and have finished implementation entirely!
